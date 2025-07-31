@@ -1,0 +1,20 @@
+.high {
+  background: #ffebee;
+  color: #d32f2f;
+  font-weight: 600;
+}
+.medium {
+  background: #fff3e0;
+  color: #f57700;
+  font-weight: 600;
+}
+.low {
+  background: #e8f5e8;
+  color: #2e7d32;
+  font-weight: 600;
+}
+.default {
+  background: #f5f5f5;
+  color: #616161;
+  font-weight: 600;
+}
